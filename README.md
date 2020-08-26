@@ -2,12 +2,13 @@
 
 j'essaye apprendre à coder mais c'est hard lol
 
+jtravail sur : https://mdtfinder.fr
+
 trucs :
 
 [<img height="32" width="32" src="https://simpleicons.org/icons/discord.svg"/>](https://discord.gg/cDNzaNU)  [<img height="32" width="32" src="https://simpleicons.org/icons/youtube.svg"/>](https://www.youtube.com/redlegamin)  [<img height="32" width="32" src="https://simpleicons.org/icons/twitch.svg"/>](https://www.twitch.tv/redlegamin)
 
-jtravail sur :
- https://mdtfinder.fr
+
 
 jecoute :
 
