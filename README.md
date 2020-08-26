@@ -1,5 +1,6 @@
 ### cc c red
 
+17 ans et j'joue en a minecraft tous les jours
 j'essaye apprendre à coder mais c'est hard lol
 
 jtravail sur : https://mdtfinder.fr
