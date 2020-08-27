@@ -4,6 +4,8 @@
 
 j'essaye apprendre à coder mais c'est hard lol
 
+j'apprends javascript depuis 2 ans 
+
 jtravail sur : https://mdtfinder.fr
 
 trucs :
