@@ -14,6 +14,6 @@ trucs :
 
 
 
-jecoute :
+j'ecoute :
 
  [![Spotify](https://spotify.redlegamin.vercel.app/api/spotify)](https://open.spotify.com/user/mr♥red)
