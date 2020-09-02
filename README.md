@@ -2,7 +2,7 @@
 
 17 ans et j'joue en a minecraft tous les jours
 
-j'essaye apprendre à coder mais c'est hard lol
+j'essaye apprendre à dev mais c'est hard lol
 
 j'apprends javascript et tout les outils les plus polulaires qui ya autour depuis bientot 2 ans 
 
