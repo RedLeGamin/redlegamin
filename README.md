@@ -6,9 +6,7 @@ j'essaye apprendre à dev mais c'est hard lol
 
 j'apprends javascript et tout les outils les plus polulaires qui ya autour depuis bientot 2 ans 
 
-je sais pas utiliser github
-
-jtravail sur : https://mdtfinder.fr
+j'ai commencé récemment java et python
 
 trucs :
 
